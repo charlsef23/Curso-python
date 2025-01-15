@@ -5,14 +5,12 @@
 # TODA TU VIDA. Desde hoy hasta el fin de los tiempos
 ###
 
-
-
-print("Hola mundo!")
+print("¡Hola, Twitch!")
 print('Esto también funciona con una comilla')
 
 print("Python", "es", "genial")
 
 print("Python", "es", "brutal", sep = "-")
 
-print("Python se imprime", end = " ")
+print("Esto se imprime", end = "\n")
 print("en una línea")
